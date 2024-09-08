@@ -50,6 +50,9 @@ It   is   recommended   that  the   model   should   be   expanded   to   includ
 molecular   features,   exploring   its   applicability   to   other   cancer   types,   and   investigating   the 
 potential for real-world implementation in clinical practice.
 
+Here is a link to our summary Video
+https://www.linkedin.com/posts/rach-oluwakamiye-abolade-9596a5169_hackbio-bioinformatics-machine-activity-7238635513434226688-kh_n?utm_source=share&utm_medium=member_desktop
+
 ### References
 1. Arnold M, Morgan E, Rumgay H, Mafra A, Singh D, Laversanne M, Vignat J, Gralow
 JR, Cardoso F, Siesling S, Soerjomataram I. Current and future burden of breast cancer:
